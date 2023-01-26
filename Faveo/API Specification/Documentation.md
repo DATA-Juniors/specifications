@@ -23,6 +23,13 @@ Clients can be get application info from service, administration can be edit via
 
 [See docs](./AppInfo.md)
 
+**Manage Users**
+
+Administrator routes for user managment
+
+[See docs](./AppInfo.md)
+
+
 *Categories*
 
 *Product List*

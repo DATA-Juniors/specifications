@@ -4,6 +4,8 @@
 
 ---
 
+Planning on Draw.io: [show](./auth.drawio)
+
 > Base url: `/api/v1/auth`
 
 <br>
