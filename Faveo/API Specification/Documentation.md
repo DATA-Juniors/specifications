@@ -27,12 +27,20 @@ Clients can be get application info from service, administration can be edit via
 
 Administrator routes for user managment
 
-[See docs](./AppInfo.md)
+[See docs](./ManageUsers.md)
 
 
-*Categories*
+**Categories**
 
-*Product List*
+Manage Categories list for administrator and client 
+
+[See docs](./Categories.md)
+
+**Product List**
+
+Manage Products list for administrator and client
+
+[See docs](./Products.md)
 
 *Order products*
 

@@ -87,6 +87,29 @@ or
 
 ---
 
+
+**POST** `/resend`
+
+```json
+{
+    "email": "johndoe@gmail.com"
+}
+```
+
+Response
+
+```json
+{
+    "message": "Verification code sended to email",
+    "email": "johndoe@gmail.com",
+    "timeOut": 300, 
+    "verificationId": "aade4420-533c-45bc-8103-cf6632abb342"
+}
+```
+
+
+---
+
 **POST** `/verify`
 
 ```json
