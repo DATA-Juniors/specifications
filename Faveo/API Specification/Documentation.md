@@ -42,8 +42,11 @@ Manage Products list for administrator and client
 
 [See docs](./Products.md)
 
-*Order products*
+**Order products**
 
+Product Ordering endpoints and management user orders from admin side
+
+[See docs](./Orders.md)
 
 ## For feature releases
 - In app Payment
