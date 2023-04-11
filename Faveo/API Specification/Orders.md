@@ -25,7 +25,7 @@ Request
     "address": "Darital, 33",
     "phone": "998918273",
     "name": "Alisher Shamuratov",
-    "purchaseType": "cash"
+    "purchaseType": "   "
 }
 ```
 
